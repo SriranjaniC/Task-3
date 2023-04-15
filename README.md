@@ -1,4 +1,4 @@
-# Bigbasket Clone
+# Grocery Delivery App
 
 ## Introduction 
 
@@ -9,7 +9,7 @@ This is my individual project based on React and Redux.
 
 Frontend : React JS
 
-Backend   : Node Js
+
 
 State Management : Redux
 
